@@ -86,6 +86,6 @@ Exit the program.
 
 interfaces (5)
 
-=head1 AUTHOR
+=head1 AUTHORS
 
-Serge Hallyn <serge.hallyn@ubuntu.com>
+Please refer to the AUTHORS file distributed with netcf.
